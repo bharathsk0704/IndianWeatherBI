@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+logs/*
+data/raw/*
+data/processed/*
+compose-check.txt
